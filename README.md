@@ -1,14 +1,21 @@
 # Preparation for TensorFlow Certification Exam
 
 ## 1. Image Classification
-- [] Dataset
-- [] ImageDataGenerator
-- [] Transfer Learning
+- [ ] Dataset
+- [ ] Image Augmentation
+- [ ] ImageDataGenerator
+- [ ] Transfer Learning
 
 ## 2. NLP
-- [] Text Classificaiton
-- [] Text Generation
-- [] Transfer Learning
+- [ ] Text Classificaiton
+- [ ] Word Embeddings
+- [ ] LSTM
+- [ ] RNN and GRU
+- [ ] Text Generation
+- [ ] Transfer Learning
 
 ## 3. Time Series
-- [] Sliding Windows
+- [ ] Mean Average Error (MAE)
+- [ ] Sliding Windows (trailing vs centered)
+- [ ] Sequence Bias
+- [ ] Dynamic Learning Rate
